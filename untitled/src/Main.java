@@ -23,7 +23,7 @@ public class Main {
             System.out.println("Because he couldn't see that well.");
         }
         //write an if statement that prints out "When does a joke become a dad joke?"  if the input was equal to 8
-        if (userInt = 8) {
+        if (userInt == 8) {
             System.out.println("When does a joke become a dad joke?");
         }
         //write an if statement that prints out "When it becomes apparent."  if the input was greater than or equal to 8
